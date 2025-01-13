@@ -84,8 +84,8 @@ else
   colorscheme.floatingWindowBackground = '#383838'
   colorscheme.menuOptionBackground = '#282828'
 
-  colorscheme.mainText = '#c1c1c1'
-  colorscheme.emphasisText = '#fafafa'
+  colorscheme.mainText = '#e6c9c7'
+  colorscheme.emphasisText = '#e0cecd'
   colorscheme.commandText = '#e0e0e0'
   colorscheme.inactiveText = '#484848'
   colorscheme.disabledText = '#848484'
@@ -97,8 +97,8 @@ else
   colorscheme.focusedBorder = '#444444'
   colorscheme.emphasizedBorder = '#363636'
 
-  colorscheme.syntaxFunction = '#ea6962'
-  colorscheme.syntaxError = '#d6656a'
+  colorscheme.syntaxFunction = '#ff574c'
+  colorscheme.syntaxError = '#ffc7ae'
   colorscheme.syntaxKeyword = '#ffb3ae'
   colorscheme.warningText = '#aefaff'
   colorscheme.linkText = '#ff6b62'
