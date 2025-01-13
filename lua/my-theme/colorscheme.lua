@@ -78,7 +78,7 @@ if vim.o.background == 'light' then
   colorscheme.foregroundEmphasis = '#000000'
   colorscheme.terminalGray = '#333333'
 else
-  colorscheme.editorBackground = config.transparent and 'none' or '#212121'
+  colorscheme.editorBackground = config.transparent and 'none' or '#1a1111'
   colorscheme.sidebarBackground = '#1a1a1a'
   colorscheme.popupBackground = '#292929'
   colorscheme.floatingWindowBackground = '#383838'
