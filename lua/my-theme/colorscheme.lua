@@ -97,9 +97,9 @@ else
   colorscheme.focusedBorder = '#444444'
   colorscheme.emphasizedBorder = '#363636'
 
-  colorscheme.syntaxFunction = '#ff574c'
+  colorscheme.syntaxKeyword = '#ff574c'
   colorscheme.syntaxError = '#ffc7ae'
-  colorscheme.syntaxKeyword = '#ffb3ae'
+  colorscheme.syntaxFunction = '#ffb3ae'
   colorscheme.warningText = '#aefaff'
   colorscheme.linkText = '#ff6b62'
   colorscheme.stringText = '#ffaebd'
@@ -114,4 +114,3 @@ else
 end
 
 return colorscheme
-
