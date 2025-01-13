@@ -63,7 +63,7 @@ if vim.o.background == 'light' then
   colorscheme.focusedBorder = '#aaaaaa'
   colorscheme.emphasizedBorder = '#999999'
 
-  colorscheme.syntaxFunction = '#6871ff'
+  colorscheme.syntaxFunction = '#ea6962'
   colorscheme.syntaxError = '#d6656a'
   colorscheme.syntaxKeyword = '#ffb3ae'
   colorscheme.errorText = '#d32f2f'
