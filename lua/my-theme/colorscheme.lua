@@ -1,8 +1,46 @@
 local config = require 'my-theme.config'
 
 local colorscheme = {
-  standardWhite = '#ffffff',
-  standardBlack = '#1e1e1e',
+  cursor = '#f1dedd',
+  cursorTextColor = '#d8c2c0',
+  
+  foreground = '#f1dedd',
+  background = '#1a1111',
+  selectionForeground = '#442928',
+  selectionBackground = '#e7bdb9',
+  urlColor = '#ffb3ae',
+
+  -- Black
+  blackBase = '#1a1111',
+  blackBright = '#534342',
+
+  -- Red
+  redBase = '#ff8678',
+  redBright = '#ffb4ab',
+
+  -- Green
+  greenBase = '#d8ac63',
+  greenBright = '#e2c28c',
+
+  -- Yellow
+  yellowBase = '#ffaba4',
+  yellowBright = '#ffdad7',
+
+  -- Blue
+  blueBase = '#ff8678',
+  blueBright = '#ffb4ab',
+
+  -- Magenta
+  magentaBase = '#d8ac63',
+  magentaBright = '#e2c28c',
+
+  -- Cyan
+  cyanBase = '#ffaba4',
+  cyanBright = '#ffdad7',
+
+  -- White
+  whiteBase = '#d8c2c0',
+  whiteBright = '#f1dedd',
 }
 
 if vim.o.background == 'light' then
@@ -76,3 +114,4 @@ else
 end
 
 return colorscheme
+
