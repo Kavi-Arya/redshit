@@ -65,7 +65,7 @@ if vim.o.background == 'light' then
 
   colorscheme.syntaxFunction = '#6871ff'
   colorscheme.syntaxError = '#d6656a'
-  colorscheme.syntaxKeyword = '#9966cc'
+  colorscheme.syntaxKeyword = '#ffb3ae'
   colorscheme.errorText = '#d32f2f'
   colorscheme.warningText = '#f29718'
   colorscheme.linkText = '#1976d2'
