@@ -97,10 +97,10 @@ else
   colorscheme.focusedBorder = '#444444'
   colorscheme.emphasizedBorder = '#363636'
 
-  colorscheme.syntaxError = '#ff7a84'
-  colorscheme.syntaxFunction = '#79b8ff'
+  colorscheme.syntaxFunction = '#ea6962'
+  colorscheme.syntaxError = '#d6656a'
+  colorscheme.syntaxKeyword = '#ffb3ae'
   colorscheme.warningText = '#ff9800'
-  colorscheme.syntaxKeyword = '#b392f0'
   colorscheme.linkText = '#9db1c5'
   colorscheme.stringText = '#ffab70'
   colorscheme.warningEmphasis = '#cd9731'
