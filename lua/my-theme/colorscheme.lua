@@ -4,8 +4,8 @@ local colorscheme = {
   cursor = '#f1dedd',
   cursorTextColor = '#d8c2c0',
   
-  foreground = '#f1dedd',
-  background = '#1a1111',
+  foreground = '#ffffff',
+  background = '#000000',
   selectionForeground = '#442928',
   selectionBackground = '#e7bdb9',
   urlColor = '#ffb3ae',
