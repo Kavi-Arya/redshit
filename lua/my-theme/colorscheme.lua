@@ -1,9 +1,8 @@
 local config = require 'my-theme.config'
 
 local colorscheme = {
-  cursor = '#f1dedd',
+  cursor = '#ea6962',
   cursorTextColor = '#d8c2c0',
-  
   foreground = '#ffffff',
   background = '#000000',
   selectionForeground = '#442928',
@@ -78,7 +77,7 @@ if vim.o.background == 'light' then
   colorscheme.foregroundEmphasis = '#000000'
   colorscheme.terminalGray = '#333333'
 else
-  colorscheme.editorBackground = config.transparent and 'none' or '#1a1111'
+  colorscheme.editorBackground = config.transparent and 'none' or '#000000'
   colorscheme.sidebarBackground = '#1a1a1a'
   colorscheme.popupBackground = '#292929'
   colorscheme.floatingWindowBackground = '#383838'
